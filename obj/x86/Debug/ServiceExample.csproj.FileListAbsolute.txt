@@ -1,0 +1,13 @@
+C:\Users\Marc\Desktop\pro-inz\NetService\ServiceExample\bin\Debug\ServiceExample.exe
+C:\Users\Marc\Desktop\pro-inz\NetService\ServiceExample\bin\Debug\ServiceExample.pdb
+C:\Users\Marc\Desktop\pro-inz\NetService\ServiceExample\bin\Debug\Eneter.Messaging.Framework.dll
+C:\Users\Marc\Desktop\pro-inz\NetService\ServiceExample\bin\Debug\Eneter.Messaging.Framework.pdb
+C:\Users\Marc\Desktop\pro-inz\NetService\ServiceExample\bin\Debug\Eneter.Messaging.Framework.xml
+C:\Users\Marc\Desktop\pro-inz\NetService\ServiceExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marc\Desktop\pro-inz\NetService\ServiceExample\obj\x86\Debug\ServiceExample.exe
+C:\Users\Marc\Desktop\pro-inz\NetService\ServiceExample\obj\x86\Debug\ServiceExample.pdb
+C:\Users\Marc\Desktop\pro-inz\NetService\ServiceExample\bin\Debug\ServiceExample.exe.config
+C:\Users\Marc\Desktop\pro-inz\NetService\ServiceExample\bin\Debug\ServiceExample.exe.manifest
+C:\Users\Marc\Desktop\pro-inz\NetService\ServiceExample\bin\Debug\ServiceExample.application
+C:\Users\Marc\Desktop\pro-inz\NetService\ServiceExample\obj\x86\Debug\ServiceExample.exe.manifest
+C:\Users\Marc\Desktop\pro-inz\NetService\ServiceExample\obj\x86\Debug\ServiceExample.application
